@@ -2850,6 +2850,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textTime: {fileID: 833250137}
   timeTotal: 10
+  canvasFishlObject: {fileID: 316677230}
+  scoreMangerObject: {fileID: 1445676312}
+  btnSpawn: {fileID: 1393903187}
 --- !u!4 &1428598766
 Transform:
   m_ObjectHideFlags: 0
